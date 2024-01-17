@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roman Fylypiuk</h1>
-<h3 align="center">Motivated marketing professional with hands-on experience in email marketing and CRM automations, transitioning into a Junior React Frontend Developer role</h3>
+<h3 align="center">Motivated marketing professional with hands-on experience in Email Marketing and CRM automations, transitioning into a Junior React Frontend Developer role</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roman-fyl" alt="roman-fyl" /></a> </p>
 
