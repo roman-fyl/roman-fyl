@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/roman-fyl](https://github.com/roman-fyl)
+- 👨‍💻 All of my projects are available at [https://github.com/roman-fyl](https://github.com/roman-fyl) and SHS(private)
 
 - 📫 How to reach me **roman.if.ko@icloud.com**
 
